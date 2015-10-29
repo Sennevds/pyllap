@@ -1,0 +1,3 @@
+LLAP_LEN = 12
+LLAP_START = 'a'
+LLAP_FILL = '-'
