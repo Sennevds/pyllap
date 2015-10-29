@@ -50,3 +50,6 @@ while True:
 
 ## LLAP Reference
 http://openmicros.org/index.php/articles/85-llap-lightweight-local-automation-protocol/297-llap-reference
+
+## License
+This library is licensed under the GPL v3. However, if you have a use for this library that is incompatible with this license, please contact me via my GitHub profile <https://github.com/sgsabbage> to discuss licensing arrangements.
