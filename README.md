@@ -9,11 +9,6 @@ There is a controller that leans heavily on the Python threading library to hand
 
 In my setup, I have a Ciseco Slice of Pi (https://www.wirelessthings.net/slice-of-radio-wireless-rf-transciever-for-the-raspberry-pi) plugged into a Raspberry Pi. The Slice of Pi is in serial passthrough mode.
 
-## Requirements
-Until I get around to building the setup.py file, a textual list will do:
-* pyserial - https://github.com/pyserial/pyserial
-That's it.
-
 ## Compatibility
 Currently Python 3 is supported, though it's only been tested on 3.4. It probably wouldn't take much to make it Python 2.7 compatible, however.
 
