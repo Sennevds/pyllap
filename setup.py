@@ -5,8 +5,8 @@ setup(
 
     version='0.1',
 
-    description='A library for sending and receiving LLAP messages for controlling Ciseco hardware.',
-    long_description='There is a controller that leans heavily on the Python threading library to handle I/O and all the important things that must be done like ACKing messages to stop retries. It will also handle transmit retries and sleeping devices.',
+    description='LLAP control library.',
+    long_description='A library for sending and receiving LLAP messages for controlling Ciseco hardware.',
 
     url='https://github.com/sgsabbage/pyllap',
 
