@@ -1,4 +1,4 @@
-# pyllap
+# pyLLAP
 A Python library for sending and receiving LLAP messages for controlling Ciseco hardware.
 
 ## Disclaimer
